@@ -1,7 +1,7 @@
 LvivPy #7: Перший Спікер - Олександр Бучковський
 ################################################
 
-:date: 2019-02-07
+:date: 2019-02-15
 :slug: lvivpy7-speeker-Oleksandr-Buchkovskyi
 :category: lvivpy
 :description: Олександр Бучковський, "Quest for Open Source, or how I contributed to Python, Pandas and matplotlib."
