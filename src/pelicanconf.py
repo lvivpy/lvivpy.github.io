@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'LvivPy'
 SITENAME = 'Lviv Python Community'
-SITEURL = ''
+SITEURL = 'https://lvivpy.github.io'
 
 PATH = 'content'
 
@@ -13,8 +13,12 @@ TIMEZONE = 'Europe/Kiev'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
+FEED_ATOM = 'feeds.xml'
+FEED_RSS = 'rss.xml'
 FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
 CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None

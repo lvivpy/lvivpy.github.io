@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>LvivPy #7: Перший Спікер - Олександр Бучковський</title><link>https://lvivpy.github.io/lvivpy7-speeker-Oleksandr-Buchkovskyi.html</link><description>&lt;div class="section" id="quest-for-open-source-or-how-i-contributed-to-python-pandas-and-matplotlib"&gt;
+&lt;h2&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/h2&gt;
+&lt;p&gt;Мене звати Сашко, я працюю з Python вже більше 5 років. Наразі займаю посаду Lead Python Software Engineer
+в американській компанії KapitalTrading.
+Основний стек який я використовую для роботи: Core Python, Flask, Pandas, Numpy.
+Спеціалізація: Scientific Calculation …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Fri, 15 Feb 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-02-15:/lvivpy7-speeker-Oleksandr-Buchkovskyi.html</guid></item><item><title>LvivPy #7 - 2 березня 2019р!</title><link>https://lvivpy.github.io/lvivpy7-announce.html</link><description>&lt;p&gt;Дата наступної зустрічі: 2 березня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вул. Лемківська 15, у Конференс холі компанії Lohika, яка люб'язно надала простір для зустрічі.&lt;/p&gt;
+&lt;p&gt;Шукаємо доповідачів: &lt;a class="reference external" href="https://goo.gl/forms/h2hCMkKmnI1iUlZ02"&gt;https://goo.gl/forms/h2hCMkKmnI1iUlZ02&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/258744248/"&gt;https://www.meetup.com/uapycon/events/258744248/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Thu, 07 Feb 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-02-07:/lvivpy7-announce.html</guid></item><item><title>It's alive!</title><link>https://lvivpy.github.io/first-post.html</link><description>&lt;img alt="" src="https://lvivpy.github.io/images/logo.png" /&gt;
+&lt;p&gt;Ось LvivPy і отримав свою сторінку.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Що тут буде?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ананси подій LvivPy.&lt;/li&gt;
+&lt;li&gt;Публікація відео та слайдів доповідей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Q: Рекламa?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ніякої комерції.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Я бачу помилку. Що робити?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Роби Pull Request!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Я хочу допомогти сайту!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Роби Pull Request!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Mon, 04 Feb 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-02-04:/first-post.html</guid></item></channel></rss>
