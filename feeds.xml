@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-02-15T00:00:00+02:00</updated><entry><title>LvivPy #7: Перший Спікер - Олександр Бучковський</title><link href="https://lvivpy.github.io/lvivpy7-speeker-Oleksandr-Buchkovskyi.html" rel="alternate"></link><published>2019-02-15T00:00:00+02:00</published><updated>2019-02-15T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-02-15:/lvivpy7-speeker-Oleksandr-Buchkovskyi.html</id><summary type="html">&lt;div class="section" id="quest-for-open-source-or-how-i-contributed-to-python-pandas-and-matplotlib"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-02-18T00:00:00+02:00</updated><entry><title>LvivPy #7: Спікер - Андрій Босий</title><link href="https://lvivpy.github.io/lvivpy7-speeker-andriy-bosyi.html" rel="alternate"></link><published>2019-02-18T00:00:00+02:00</published><updated>2019-02-18T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-02-18:/lvivpy7-speeker-andriy-bosyi.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Що таке аналітика даних і чим відрізняється від софтвер девелопменту&lt;/h2&gt;
+&lt;p&gt;Андрій Босий, Founder/Team Lead Data Scientist у компанії MindCraft.ai.&lt;/p&gt;
+&lt;p&gt;Зі свого досвіду розповість та покаже на прикладах як одну і ту ж задачу буде вирішуватиме девелопер і аналітик даних.
+Розглянемо плюси і мінуси обох підходів в таких аспектах …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Що таке аналітика даних і чим відрізняється від софтвер девелопменту&lt;/h2&gt;
+&lt;p&gt;Андрій Босий, Founder/Team Lead Data Scientist у компанії MindCraft.ai.&lt;/p&gt;
+&lt;p&gt;Зі свого досвіду розповість та покаже на прикладах як одну і ту ж задачу буде вирішуватиме девелопер і аналітик даних.
+Розглянемо плюси і мінуси обох підходів в таких аспектах:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;постановка задачі й визначення критерію успішності&lt;/li&gt;
+&lt;li&gt;засоби розробки, версіонування, CI/CD&lt;/li&gt;
+&lt;li&gt;вирішення задачі та якість результату - код, презентація, метрики&lt;/li&gt;
+&lt;li&gt;цо пішло не так - типові факапи в обидвох випадках.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #7: Перший Спікер - Олександр Бучковський</title><link href="https://lvivpy.github.io/lvivpy7-speeker-Oleksandr-Buchkovskyi.html" rel="alternate"></link><published>2019-02-15T00:00:00+02:00</published><updated>2019-02-15T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-02-15:/lvivpy7-speeker-Oleksandr-Buchkovskyi.html</id><summary type="html">&lt;div class="section" id="quest-for-open-source-or-how-i-contributed-to-python-pandas-and-matplotlib"&gt;
 &lt;h2&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/h2&gt;
 &lt;p&gt;Мене звати Сашко, я працюю з Python вже більше 5 років. Наразі займаю посаду Lead Python Software Engineer
 в американській компанії KapitalTrading.
