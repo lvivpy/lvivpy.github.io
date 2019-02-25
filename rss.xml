@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>LvivPy #7: Спікер - Сергій Ільін</title><link>https://lvivpy.github.io/lvivpy7-speeker-serhii-ilin.html</link><description>&lt;div class="section" id="python-microcontrollers"&gt;
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>LvivPy #7: Перший Спікер - Borys Drozhak</title><link>https://lvivpy.github.io/lvivpy7-speeker-Borys-Drozhak.html</link><description>&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
+&lt;h2&gt;How to make your developers happy&lt;/h2&gt;
+&lt;p&gt;Борис Дрожак, Infrastructure DevOps Engineer &amp;#64; DataRobot&lt;/p&gt;
+&lt;p&gt;What makes developers happy and how to make it based on current market and simple python.
+I’ll tell a story of how we discover what matters to developers and what numbers we found worth influence&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Mon, 25 Feb 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-02-25:/lvivpy7-speeker-Borys-Drozhak.html</guid></item><item><title>LvivPy #7: Спікер - Сергій Ільін</title><link>https://lvivpy.github.io/lvivpy7-speeker-serhii-ilin.html</link><description>&lt;div class="section" id="python-microcontrollers"&gt;
 &lt;h2&gt;Python + microcontrollers&lt;/h2&gt;
 &lt;p&gt;Сергій Ілін, Python Dev &amp;#64; Innoteka&lt;/p&gt;
 &lt;p&gt;Хоче розповісти про MicroPython та зробити демо на прикладі мікроконтроллера ESP8266.&lt;/p&gt;
