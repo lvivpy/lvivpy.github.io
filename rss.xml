@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>LvivPy #7: Перший Спікер - Borys Drozhak</title><link>https://lvivpy.github.io/lvivpy7-speeker-Borys-Drozhak.html</link><description>&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>LvivPy #7: Остаточний Lineup</title><link>https://lvivpy.github.io/lvivpy7-lineup.html</link><description>&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Олександр Бучковський, Lead Python Software Engineer &amp;#64; KapitalTrading&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Розповість історію свого контрібюшена у відомі open source проекти,
+а також про те чому почав контрібютити, технічні моменти самих змін і те як проходило ревю PR-ів.
+Ви дізнаєтесь чому брати …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Tue, 26 Feb 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-02-26:/lvivpy7-lineup.html</guid></item><item><title>LvivPy #7: Спікер - Borys Drozhak</title><link>https://lvivpy.github.io/lvivpy7-speeker-Borys-Drozhak.html</link><description>&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
 &lt;h2&gt;How to make your developers happy&lt;/h2&gt;
 &lt;p&gt;Борис Дрожак, Infrastructure DevOps Engineer &amp;#64; DataRobot&lt;/p&gt;
 &lt;p&gt;What makes developers happy and how to make it based on current market and simple python.

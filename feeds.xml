@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-02-25T00:00:00+02:00</updated><entry><title>LvivPy #7: Перший Спікер - Borys Drozhak</title><link href="https://lvivpy.github.io/lvivpy7-speeker-Borys-Drozhak.html" rel="alternate"></link><published>2019-02-25T00:00:00+02:00</published><updated>2019-02-25T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-02-25:/lvivpy7-speeker-Borys-Drozhak.html</id><summary type="html">&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-02-26T00:00:00+02:00</updated><entry><title>LvivPy #7: Остаточний Lineup</title><link href="https://lvivpy.github.io/lvivpy7-lineup.html" rel="alternate"></link><published>2019-02-26T00:00:00+02:00</published><updated>2019-02-26T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-02-26:/lvivpy7-lineup.html</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Олександр Бучковський, Lead Python Software Engineer &amp;#64; KapitalTrading&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Розповість історію свого контрібюшена у відомі open source проекти,
+а також про те чому почав контрібютити, технічні моменти самих змін і те як проходило ревю PR-ів.
+Ви дізнаєтесь чому брати …&lt;/p&gt;</summary><content type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Олександр Бучковський, Lead Python Software Engineer &amp;#64; KapitalTrading&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Розповість історію свого контрібюшена у відомі open source проекти,
+а також про те чому почав контрібютити, технічні моменти самих змін і те як проходило ревю PR-ів.
+Ви дізнаєтесь чому брати участь в opensource проектах корисно не тільки для комуніті, але й для вас самих. Як шукати opensource проекти. Що і куди краще контрібютити.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Що таке аналітика даних і чим відрізняється від софтвер девелопменту.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Андрій Босий, Founder/Team Lead Data Scientist &amp;#64; MindCraft.ai&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Зі свого досвіду розповість та покаже на прикладах як одну і ту ж задачу буде вирішуватиме девелопер і аналітик даних. Розглянемо плюси і мінуси обох підходів в таких аспектах:
+- постановка задачі й визначення критерію успішності
+- засоби розробки, версіонування, CI/CD
+- вирішення задачі та якість результату - код, презентація, метрики
+- цо пішло не так - типові факапи в обидвох випадках.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Python + microcontrollers&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Сергій Ілін, Python Dev &amp;#64; Innoteka&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Хоче розповісти про MicroPython та зробити демо на прикладі мікроконтроллера ESP8266.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;How to make your developers happy&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Borys Drozhak, Engineering Productivity expert &amp;#64; DataRobot&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;What makes developers happy and how to make it based on current market and simple python.
+I’ll tell a story of how we discover what matters to developers and what numbers we found worth influence&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.meetup.com/uapycon/events/258744248/"&gt;Рєстрація&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>LvivPy #7: Спікер - Borys Drozhak</title><link href="https://lvivpy.github.io/lvivpy7-speeker-Borys-Drozhak.html" rel="alternate"></link><published>2019-02-25T00:00:00+02:00</published><updated>2019-02-25T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-02-25:/lvivpy7-speeker-Borys-Drozhak.html</id><summary type="html">&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
 &lt;h2&gt;How to make your developers happy&lt;/h2&gt;
 &lt;p&gt;Борис Дрожак, Infrastructure DevOps Engineer &amp;#64; DataRobot&lt;/p&gt;
 &lt;p&gt;What makes developers happy and how to make it based on current market and simple python.

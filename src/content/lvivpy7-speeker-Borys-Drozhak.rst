@@ -1,4 +1,4 @@
-LvivPy #7: Перший Спікер - Borys Drozhak
+LvivPy #7: Спікер - Borys Drozhak
 ########################################
 
 :date: 2019-02-25
