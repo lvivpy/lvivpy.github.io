@@ -20,7 +20,12 @@
                             <h2>{{ article.title }}</h2>
                         </a>
                     </header>
-                    <div class="summary">{{ article.description }} </div>
+                    <div class="summary">
+                      {{ article.description }}
+                      <a href="{{ SITEURL }}/{{ article.url }}">
+                          <p class="readmore">Більше ▹</p>
+                      </a> 
+                    </div>
                     <div class="tags">
                         <ul class="tags">
                         {% for tag in article.tags %}
@@ -28,9 +33,6 @@
                         {% endfor %}
                         </ul>
                     </div>
-                    <a href="{{ SITEURL }}/{{ article.url }}">
-                        <p class="readmore">Подробиці...</p>
-                    </a>
                 </article>
             </li>
             {% endfor %}

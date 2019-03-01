@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PLUGINS = [
+    'pelican_youtube',
+]
+
 AUTHOR = 'LvivPy'
 SITENAME = 'Lviv Python Community'
 SITEURL = 'https://lvivpy.github.io'
