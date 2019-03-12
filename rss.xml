@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0200</lastBuildDate><item><title>Онлайн Трансляція LvivPy #7</title><link>https://lvivpy.github.io/lvivpy7-stream.html</link><description>&lt;div class="youtube youtube-16x9"&gt;&lt;iframe src="https://www.youtube.com/embed/OdkCP1dEjjQ" width="800" allowfullscreen seamless frameBorder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-03-01:/lvivpy7-stream.html</guid></item><item><title>LvivPy #7: Остаточний Lineup</title><link>https://lvivpy.github.io/lvivpy7-lineup.html</link><description>&lt;div class="line-block"&gt;
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0200</lastBuildDate><item><title>LvivPy #7: Підсумок</title><link>https://lvivpy.github.io/lvivpy7-summary.html</link><description>&lt;img alt="" src="images/lvivpy7/cover.jpg" /&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Минулої суботу, 2 березня, відбулась зустріч Lviv Python Community до якої ми усі готувувалися:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;організатори шукали спікерів&lt;/li&gt;
+&lt;li&gt;спікери готували доповіді&lt;/li&gt;
+&lt;li&gt;у Lohika купували смаколики, преміщення та обладнення до події&lt;/li&gt;
+&lt;li&gt;учасники з нетерпінням чекали коля вже зустрічь відбудеться та купували квиточки на поїзди у Львів&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Велика кількість людей була зі Львов …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Tue, 12 Mar 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-03-12:/lvivpy7-summary.html</guid></item><item><title>Онлайн Трансляція LvivPy #7</title><link>https://lvivpy.github.io/lvivpy7-stream.html</link><description>&lt;div class="youtube youtube-16x9"&gt;&lt;iframe src="https://www.youtube.com/embed/OdkCP1dEjjQ" width="800" allowfullscreen seamless frameBorder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2019-03-01:/lvivpy7-stream.html</guid></item><item><title>LvivPy #7: Остаточний Lineup</title><link>https://lvivpy.github.io/lvivpy7-lineup.html</link><description>&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;strong&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/strong&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;Олександр Бучковський, Lead Python Software Engineer &amp;#64; KapitalTrading&lt;/em&gt;&lt;/div&gt;
 &lt;/div&gt;

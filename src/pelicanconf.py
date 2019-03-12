@@ -43,10 +43,11 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 STATIC_PATHS = ['images']
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 
 THEME = 'themes/brutalist'
 LOGO = 'logo.png'
 FIRST_NAME = 'LvivPy'
 TELEGRAM = 'https://t.me/lviv_python_community'
+YOUTUBE = 'https://www.youtube.com/channel/UCrOhS-i7MaNMXCxJjjHYBQA'
 #PLUGINS = ['w3c_validate', 'optimize_images', 'gzip_cache']
