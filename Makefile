@@ -3,7 +3,7 @@ dummy:
 
 bootstrap:
 	python3 -m venv .venv
-	.venv/bin/pip install requirements.txt
+	.venv/bin/pip install -r requirements.txt
 
 build:
 	. .venv/bin/activate && $(MAKE) -C src html
