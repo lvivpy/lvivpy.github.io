@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community - lvivpy</title><link href="/" rel="alternate"></link><link href="/feeds/lvivpy.atom.xml" rel="self"></link><id>/</id><updated>2019-11-27T10:43:00+02:00</updated><entry><title>LvivPy #8: Спікер - Ігор Давиденко</title><link href="/lvivpy8-speaker-igor-davydenko.html" rel="alternate"></link><published>2019-11-27T10:43:00+02:00</published><updated>2019-11-27T10:43:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-11-27:/lvivpy8-speaker-igor-davydenko.html</id><summary type="html">&lt;div class="section" id="openapi-3-python"&gt;
+&lt;h2&gt;Детальна інструкція по використанню OpenAPI 3 у Python&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://igordavydenko.com/"&gt;Ігор Давиденко&lt;/a&gt;, розробник&lt;/p&gt;
+&lt;p&gt;Обробка вхідних даних та генерування очікуваних відповедей одна з головних задач будь якого веб-фреймворку на Python.
+Будь це &lt;a class="reference external" href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;, &lt;a class="reference external" href="https://flask.palletsprojects.com/"&gt;Flask&lt;/a&gt;,
+&lt;a class="reference external" href="https://trypyramid.com"&gt;pyramid&lt;/a&gt;, &lt;a class="reference external" href="https://aiohttp.readthedocs.io/en/stable/web.html"&gt;aiohttp.web&lt;/a&gt;
+або &lt;a class="reference external" href="https://fastapi.tiangolo.com"&gt;FastAPI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ігор розповість про те, як кожен з перелічених фреймворків вирішує цю задачу за допомогою …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="openapi-3-python"&gt;
+&lt;h2&gt;Детальна інструкція по використанню OpenAPI 3 у Python&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://igordavydenko.com/"&gt;Ігор Давиденко&lt;/a&gt;, розробник&lt;/p&gt;
+&lt;p&gt;Обробка вхідних даних та генерування очікуваних відповедей одна з головних задач будь якого веб-фреймворку на Python.
+Будь це &lt;a class="reference external" href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;, &lt;a class="reference external" href="https://flask.palletsprojects.com/"&gt;Flask&lt;/a&gt;,
+&lt;a class="reference external" href="https://trypyramid.com"&gt;pyramid&lt;/a&gt;, &lt;a class="reference external" href="https://aiohttp.readthedocs.io/en/stable/web.html"&gt;aiohttp.web&lt;/a&gt;
+або &lt;a class="reference external" href="https://fastapi.tiangolo.com"&gt;FastAPI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ігор розповість про те, як кожен з перелічених фреймворків вирішує цю задачу за допомогою
+&lt;a class="reference external" href="https://spec.openapis.org/oas/v3.0.2"&gt;OpenAPI 3&lt;/a&gt; схем (раніше Swagger 2.0). А також спробує дати відповідь на
+вічне питання: що було раніше, курка чи яйце у контексті OpenAPI 3 і Python.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #8 - 19 грудня 2019р!</title><link href="/lvivpy8-announce.html" rel="alternate"></link><published>2019-11-27T10:42:00+02:00</published><updated>2019-11-27T10:42:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-11-27:/lvivpy8-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 19 грудня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Кульпарківська, 200а, Platforma Futura&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/263831369/"&gt;https://www.meetup.com/uapycon/events/263831369/&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Дата наступної зустрічі: 19 грудня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Кульпарківська, 200а, Platforma Futura&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/263831369/"&gt;https://www.meetup.com/uapycon/events/263831369/&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>LvivPy #7: Підсумок</title><link href="/lvivpy7-summary.html" rel="alternate"></link><published>2019-03-12T00:00:00+02:00</published><updated>2019-03-12T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-03-12:/lvivpy7-summary.html</id><summary type="html">&lt;img alt="" src="images/lvivpy7/cover.jpg" /&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Минулої суботу, 2 березня, відбулась зустріч Lviv Python Community до якої ми усі готувувалися:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;організатори шукали спікерів&lt;/li&gt;
+&lt;li&gt;спікери готували доповіді&lt;/li&gt;
+&lt;li&gt;у Lohika купували смаколики, преміщення та обладнення до події&lt;/li&gt;
+&lt;li&gt;учасники з нетерпінням чекали коля вже зустрічь відбудеться та купували квиточки на поїзди у Львів&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Велика кількість людей була зі Львов …&lt;/p&gt;</summary><content type="html">&lt;img alt="" src="images/lvivpy7/cover.jpg" /&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Минулої суботу, 2 березня, відбулась зустріч Lviv Python Community до якої ми усі готувувалися:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;організатори шукали спікерів&lt;/li&gt;
+&lt;li&gt;спікери готували доповіді&lt;/li&gt;
+&lt;li&gt;у Lohika купували смаколики, преміщення та обладнення до події&lt;/li&gt;
+&lt;li&gt;учасники з нетерпінням чекали коля вже зустрічь відбудеться та купували квиточки на поїзди у Львів&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Велика кількість людей була зі Львов, але були і ті хто приїхав з Київа (якщо вірити профайлу на MeetUp).&lt;/p&gt;
+&lt;img alt="" src="images/lvivpy7/cities.png" /&gt;
+&lt;p&gt;І це надихає, бо люди витрачаюсь сили, час та гроші щоб відвідати нашу невелияку конференцію.&lt;/p&gt;
+&lt;p&gt;Хочеться сказати величезне дякую усім хто приймав участь спікерам, усім хто прийшов та команді яка до цього була причетна.&lt;/p&gt;
+</content></entry><entry><title>Онлайн Трансляція LvivPy #7</title><link href="/lvivpy7-stream.html" rel="alternate"></link><published>2019-03-01T00:00:00+02:00</published><updated>2019-03-01T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-03-01:/lvivpy7-stream.html</id><summary type="html">&lt;div class="youtube youtube-16x9"&gt;&lt;iframe src="https://www.youtube.com/embed/OdkCP1dEjjQ" width="800" allowfullscreen seamless frameBorder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="youtube youtube-16x9"&gt;&lt;iframe src="https://www.youtube.com/embed/OdkCP1dEjjQ" width="800" allowfullscreen seamless frameBorder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</content></entry><entry><title>LvivPy #7: Остаточний Lineup</title><link href="/lvivpy7-lineup.html" rel="alternate"></link><published>2019-02-26T00:00:00+02:00</published><updated>2019-02-26T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-26:/lvivpy7-lineup.html</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Олександр Бучковський, Lead Python Software Engineer &amp;#64; KapitalTrading&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Розповість історію свого контрібюшена у відомі open source проекти,
+а також про те чому почав контрібютити, технічні моменти самих змін і те як проходило ревю PR-ів.
+Ви дізнаєтесь чому брати …&lt;/p&gt;</summary><content type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Олександр Бучковський, Lead Python Software Engineer &amp;#64; KapitalTrading&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Розповість історію свого контрібюшена у відомі open source проекти,
+а також про те чому почав контрібютити, технічні моменти самих змін і те як проходило ревю PR-ів.
+Ви дізнаєтесь чому брати участь в opensource проектах корисно не тільки для комуніті, але й для вас самих. Як шукати opensource проекти. Що і куди краще контрібютити.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Що таке аналітика даних і чим відрізняється від софтвер девелопменту.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Андрій Босий, Founder/Team Lead Data Scientist &amp;#64; MindCraft.ai&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Зі свого досвіду розповість та покаже на прикладах як одну і ту ж задачу буде вирішуватиме девелопер і аналітик даних. Розглянемо плюси і мінуси обох підходів в таких аспектах:
+- постановка задачі й визначення критерію успішності
+- засоби розробки, версіонування, CI/CD
+- вирішення задачі та якість результату - код, презентація, метрики
+- цо пішло не так - типові факапи в обидвох випадках.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Python + microcontrollers&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Сергій Ілін, Python Dev &amp;#64; Innoteka&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Хоче розповісти про MicroPython та зробити демо на прикладі мікроконтроллера ESP8266.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;How to make your developers happy&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Borys Drozhak, Engineering Productivity expert &amp;#64; DataRobot&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;What makes developers happy and how to make it based on current market and simple python.
+I’ll tell a story of how we discover what matters to developers and what numbers we found worth influence&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.meetup.com/uapycon/events/258744248/"&gt;Рєстрація&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>LvivPy #7: Спікер - Borys Drozhak</title><link href="/lvivpy7-speeker-Borys-Drozhak.html" rel="alternate"></link><published>2019-02-25T00:00:00+02:00</published><updated>2019-02-25T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-25:/lvivpy7-speeker-Borys-Drozhak.html</id><summary type="html">&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
+&lt;h2&gt;How to make your developers happy&lt;/h2&gt;
+&lt;p&gt;Борис Дрожак, Infrastructure DevOps Engineer &amp;#64; DataRobot&lt;/p&gt;
+&lt;p&gt;What makes developers happy and how to make it based on current market and simple python.
+I’ll tell a story of how we discover what matters to developers and what numbers we found worth influence&lt;/p&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;div class="section" id="how-to-make-your-developers-happy"&gt;
+&lt;h2&gt;How to make your developers happy&lt;/h2&gt;
+&lt;p&gt;Борис Дрожак, Infrastructure DevOps Engineer &amp;#64; DataRobot&lt;/p&gt;
+&lt;p&gt;What makes developers happy and how to make it based on current market and simple python.
+I’ll tell a story of how we discover what matters to developers and what numbers we found worth influence&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #7: Спікер - Сергій Ільін</title><link href="/lvivpy7-speeker-serhii-ilin.html" rel="alternate"></link><published>2019-02-19T00:00:00+02:00</published><updated>2019-02-19T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-19:/lvivpy7-speeker-serhii-ilin.html</id><summary type="html">&lt;div class="section" id="python-microcontrollers"&gt;
+&lt;h2&gt;Python + microcontrollers&lt;/h2&gt;
+&lt;p&gt;Сергій Ілін, Python Dev &amp;#64; Innoteka&lt;/p&gt;
+&lt;p&gt;Хоче розповісти про MicroPython та зробити демо на прикладі мікроконтроллера ESP8266.&lt;/p&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;div class="section" id="python-microcontrollers"&gt;
+&lt;h2&gt;Python + microcontrollers&lt;/h2&gt;
+&lt;p&gt;Сергій Ілін, Python Dev &amp;#64; Innoteka&lt;/p&gt;
+&lt;p&gt;Хоче розповісти про MicroPython та зробити демо на прикладі мікроконтроллера ESP8266.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #7: Спікер - Андрій Босий</title><link href="/lvivpy7-speeker-andriy-bosyi.html" rel="alternate"></link><published>2019-02-18T00:00:00+02:00</published><updated>2019-02-18T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-18:/lvivpy7-speeker-andriy-bosyi.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Що таке аналітика даних і чим відрізняється від софтвер девелопменту&lt;/h2&gt;
+&lt;p&gt;Андрій Босий, Founder/Team Lead Data Scientist у компанії MindCraft.ai.&lt;/p&gt;
+&lt;p&gt;Зі свого досвіду розповість та покаже на прикладах як одну і ту ж задачу буде вирішуватиме девелопер і аналітик даних.
+Розглянемо плюси і мінуси обох підходів в таких аспектах …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Що таке аналітика даних і чим відрізняється від софтвер девелопменту&lt;/h2&gt;
+&lt;p&gt;Андрій Босий, Founder/Team Lead Data Scientist у компанії MindCraft.ai.&lt;/p&gt;
+&lt;p&gt;Зі свого досвіду розповість та покаже на прикладах як одну і ту ж задачу буде вирішуватиме девелопер і аналітик даних.
+Розглянемо плюси і мінуси обох підходів в таких аспектах:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;постановка задачі й визначення критерію успішності&lt;/li&gt;
+&lt;li&gt;засоби розробки, версіонування, CI/CD&lt;/li&gt;
+&lt;li&gt;вирішення задачі та якість результату - код, презентація, метрики&lt;/li&gt;
+&lt;li&gt;цо пішло не так - типові факапи в обидвох випадках.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #7: Перший Спікер - Олександр Бучковський</title><link href="/lvivpy7-speeker-Oleksandr-Buchkovskyi.html" rel="alternate"></link><published>2019-02-15T00:00:00+02:00</published><updated>2019-02-15T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-15:/lvivpy7-speeker-Oleksandr-Buchkovskyi.html</id><summary type="html">&lt;div class="section" id="quest-for-open-source-or-how-i-contributed-to-python-pandas-and-matplotlib"&gt;
+&lt;h2&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/h2&gt;
+&lt;p&gt;Мене звати Сашко, я працюю з Python вже більше 5 років. Наразі займаю посаду Lead Python Software Engineer
+в американській компанії KapitalTrading.
+Основний стек який я використовую для роботи: Core Python, Flask, Pandas, Numpy.
+Спеціалізація: Scientific Calculation …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="quest-for-open-source-or-how-i-contributed-to-python-pandas-and-matplotlib"&gt;
+&lt;h2&gt;Quest for Open Source, or how I contributed to Python, Pandas and matplotlib.&lt;/h2&gt;
+&lt;p&gt;Мене звати Сашко, я працюю з Python вже більше 5 років. Наразі займаю посаду Lead Python Software Engineer
+в американській компанії KapitalTrading.
+Основний стек який я використовую для роботи: Core Python, Flask, Pandas, Numpy.
+Спеціалізація: Scientific Calculation, Distributed Systems, Big Data, Infrastructure Automation.&lt;/p&gt;
+&lt;p&gt;В доповіді я розповім історію свого контрібюшена у відомі open source проекти,
+розкажу про те чому я почав контрібютити, технічні моменти самих змін і те як проходило ревю PR-ів.
+Ви дізнаєтесь чому брати участь в opensource проектах корисно не тільки для комуніті, але й для вас самих. Як шукати opensource проекти. Що і куди краще контрібютити.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #7 - 2 березня 2019р!</title><link href="/lvivpy7-announce.html" rel="alternate"></link><published>2019-02-07T00:00:00+02:00</published><updated>2019-02-07T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-07:/lvivpy7-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 2 березня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вул. Лемківська 15, у Конференс холі компанії Lohika, яка люб'язно надала простір для зустрічі.&lt;/p&gt;
+&lt;p&gt;Шукаємо доповідачів: &lt;a class="reference external" href="https://goo.gl/forms/h2hCMkKmnI1iUlZ02"&gt;https://goo.gl/forms/h2hCMkKmnI1iUlZ02&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/258744248/"&gt;https://www.meetup.com/uapycon/events/258744248/&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Дата наступної зустрічі: 2 березня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вул. Лемківська 15, у Конференс холі компанії Lohika, яка люб'язно надала простір для зустрічі.&lt;/p&gt;
+&lt;p&gt;Шукаємо доповідачів: &lt;a class="reference external" href="https://goo.gl/forms/h2hCMkKmnI1iUlZ02"&gt;https://goo.gl/forms/h2hCMkKmnI1iUlZ02&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/258744248/"&gt;https://www.meetup.com/uapycon/events/258744248/&lt;/a&gt;&lt;/p&gt;
+</content></entry></feed>

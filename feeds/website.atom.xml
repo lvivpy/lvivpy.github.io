@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community - website</title><link href="/" rel="alternate"></link><link href="/feeds/website.atom.xml" rel="self"></link><id>/</id><updated>2019-02-04T00:00:00+02:00</updated><entry><title>It's alive!</title><link href="/first-post.html" rel="alternate"></link><published>2019-02-04T00:00:00+02:00</published><updated>2019-02-04T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:None,2019-02-04:/first-post.html</id><summary type="html">&lt;img alt="" src="/images/logo.png" /&gt;
+&lt;p&gt;Ось LvivPy і отримав свою сторінку.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Що тут буде?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ананси подій LvivPy.&lt;/li&gt;
+&lt;li&gt;Публікація відео та слайдів доповідей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Q: Рекламa?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ніякої комерції.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Я бачу помилку. Що робити?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Роби Pull Request!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Я хочу допомогти сайту!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Роби Pull Request!&lt;/p&gt;
+</summary><content type="html">&lt;img alt="" src="/images/logo.png" /&gt;
+&lt;p&gt;Ось LvivPy і отримав свою сторінку.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Що тут буде?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ананси подій LvivPy.&lt;/li&gt;
+&lt;li&gt;Публікація відео та слайдів доповідей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Q: Рекламa?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ніякої комерції.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Я бачу помилку. Що робити?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Роби Pull Request!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q: Я хочу допомогти сайту!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Роби Pull Request!&lt;/p&gt;
+</content></entry></feed>
