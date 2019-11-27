@@ -1,7 +1,7 @@
 LvivPy #8: Спікер - Ігор Давиденко
 ##################################
 
-:date: 2019-11-18 13:30
+:date: 2019-11-27 10:43
 :slug: lvivpy8-speaker-igor-davydenko
 :category: lvivpy
 :description: Ігор Давиденко, "Детальна інструкція по використанню OpenAPI 3 у Python."

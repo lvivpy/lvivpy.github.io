@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-03-12T00:00:00+02:00</updated><entry><title>LvivPy #7: Підсумок</title><link href="https://lvivpy.github.io/lvivpy7-summary.html" rel="alternate"></link><published>2019-03-12T00:00:00+02:00</published><updated>2019-03-12T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-03-12:/lvivpy7-summary.html</id><summary type="html">&lt;img alt="" src="images/lvivpy7/cover.jpg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-11-27T10:43:00+02:00</updated><entry><title>LvivPy #8: Спікер - Ігор Давиденко</title><link href="https://lvivpy.github.io/lvivpy8-speaker-igor-davydenko.html" rel="alternate"></link><published>2019-11-27T10:43:00+02:00</published><updated>2019-11-27T10:43:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-11-27:/lvivpy8-speaker-igor-davydenko.html</id><summary type="html">&lt;div class="section" id="openapi-3-python"&gt;
+&lt;h2&gt;Детальна інструкція по використанню OpenAPI 3 у Python&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://igordavydenko.com/"&gt;Ігор Давиденко&lt;/a&gt;, розробник&lt;/p&gt;
+&lt;p&gt;Обробка вхідних даних та генерування очікуваних відповедей одна з головних задач будь якого веб-фреймворку на Python.
+Будь це &lt;a class="reference external" href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;, &lt;a class="reference external" href="https://flask.palletsprojects.com/"&gt;Flask&lt;/a&gt;,
+&lt;a class="reference external" href="https://trypyramid.com"&gt;pyramid&lt;/a&gt;, &lt;a class="reference external" href="https://aiohttp.readthedocs.io/en/stable/web.html"&gt;aiohttp.web&lt;/a&gt;
+або &lt;a class="reference external" href="https://fastapi.tiangolo.com"&gt;FastAPI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ігор розповість про те, як кожен з перелічених фреймворків вирішує цю задачу за допомогою …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="openapi-3-python"&gt;
+&lt;h2&gt;Детальна інструкція по використанню OpenAPI 3 у Python&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://igordavydenko.com/"&gt;Ігор Давиденко&lt;/a&gt;, розробник&lt;/p&gt;
+&lt;p&gt;Обробка вхідних даних та генерування очікуваних відповедей одна з головних задач будь якого веб-фреймворку на Python.
+Будь це &lt;a class="reference external" href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;, &lt;a class="reference external" href="https://flask.palletsprojects.com/"&gt;Flask&lt;/a&gt;,
+&lt;a class="reference external" href="https://trypyramid.com"&gt;pyramid&lt;/a&gt;, &lt;a class="reference external" href="https://aiohttp.readthedocs.io/en/stable/web.html"&gt;aiohttp.web&lt;/a&gt;
+або &lt;a class="reference external" href="https://fastapi.tiangolo.com"&gt;FastAPI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ігор розповість про те, як кожен з перелічених фреймворків вирішує цю задачу за допомогою
+&lt;a class="reference external" href="https://spec.openapis.org/oas/v3.0.2"&gt;OpenAPI 3&lt;/a&gt; схем (раніше Swagger 2.0). А також спробує дати відповідь на
+вічне питання: що було раніше, курка чи яйце у контексті OpenAPI 3 і Python.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>LvivPy #8 - 19 грудня 2019р!</title><link href="https://lvivpy.github.io/lvivpy8-announce.html" rel="alternate"></link><published>2019-11-27T10:42:00+02:00</published><updated>2019-11-27T10:42:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-11-27:/lvivpy8-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 19 грудня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Кульпарківська, 200а, Platforma Futura&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/263831369/"&gt;https://www.meetup.com/uapycon/events/263831369/&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Дата наступної зустрічі: 19 грудня об 11:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Кульпарківська, 200а, Platforma Futura&lt;/p&gt;
+&lt;p&gt;Реєстрація на подію: &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/263831369/"&gt;https://www.meetup.com/uapycon/events/263831369/&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>LvivPy #7: Підсумок</title><link href="https://lvivpy.github.io/lvivpy7-summary.html" rel="alternate"></link><published>2019-03-12T00:00:00+02:00</published><updated>2019-03-12T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-03-12:/lvivpy7-summary.html</id><summary type="html">&lt;img alt="" src="images/lvivpy7/cover.jpg" /&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Минулої суботу, 2 березня, відбулась зустріч Lviv Python Community до якої ми усі готувувалися:&lt;/dt&gt;
 &lt;dd&gt;&lt;ul class="first last simple"&gt;
