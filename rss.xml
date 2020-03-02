@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Wed, 27 Nov 2019 10:43:00 +0200</lastBuildDate><item><title>LvivPy #8: Спікер - Ігор Давиденко</title><link>https://lvivpy.github.io/lvivpy8-speaker-igor-davydenko.html</link><description>&lt;div class="section" id="openapi-3-python"&gt;
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Mon, 02 Mar 2020 16:19:00 +0200</lastBuildDate><item><title>LvivPy #9 - 18 березня 2020р!</title><link>https://lvivpy.github.io/lvivpy9-announce.html</link><description>&lt;p&gt;Дата наступної зустрічі: 18 березня об 19:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Замкнена, 9, &lt;a class="reference external" href="https://www.facebook.com/ihublviv/"&gt;iHUB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ми шукаємо спікерів! Заповніть форму, щоб виступити на LvivPy #9: &lt;a class="reference external" href="https://forms.gle/JKzuvR9mPaFXBLk78"&gt;https://forms.gle/JKzuvR9mPaFXBLk78&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація на зустріч буде відкрита пізніше.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Приєднуйтеся до нашого Телеграм каналу: &lt;a class="reference external" href="https://t.me/lviv_python_community"&gt;https://t.me/lviv_python_community&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Mon, 02 Mar 2020 16:19:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2020-03-02:/lvivpy9-announce.html</guid></item><item><title>LvivPy #8: Спікер - Ігор Давиденко</title><link>https://lvivpy.github.io/lvivpy8-speaker-igor-davydenko.html</link><description>&lt;div class="section" id="openapi-3-python"&gt;
 &lt;h2&gt;Детальна інструкція по використанню OpenAPI 3 у Python&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://igordavydenko.com/"&gt;Ігор Давиденко&lt;/a&gt;, розробник&lt;/p&gt;
 &lt;p&gt;Обробка вхідних даних та генерування очікуваних відповедей одна з головних задач будь якого веб-фреймворку на Python.

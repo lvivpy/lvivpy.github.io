@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2019-11-27T10:43:00+02:00</updated><entry><title>LvivPy #8: Спікер - Ігор Давиденко</title><link href="https://lvivpy.github.io/lvivpy8-speaker-igor-davydenko.html" rel="alternate"></link><published>2019-11-27T10:43:00+02:00</published><updated>2019-11-27T10:43:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-11-27:/lvivpy8-speaker-igor-davydenko.html</id><summary type="html">&lt;div class="section" id="openapi-3-python"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-03-02T16:19:00+02:00</updated><entry><title>LvivPy #9 - 18 березня 2020р!</title><link href="https://lvivpy.github.io/lvivpy9-announce.html" rel="alternate"></link><published>2020-03-02T16:19:00+02:00</published><updated>2020-03-02T16:19:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-03-02:/lvivpy9-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 18 березня об 19:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Замкнена, 9, &lt;a class="reference external" href="https://www.facebook.com/ihublviv/"&gt;iHUB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ми шукаємо спікерів! Заповніть форму, щоб виступити на LvivPy #9: &lt;a class="reference external" href="https://forms.gle/JKzuvR9mPaFXBLk78"&gt;https://forms.gle/JKzuvR9mPaFXBLk78&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація на зустріч буде відкрита пізніше.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Приєднуйтеся до нашого Телеграм каналу: &lt;a class="reference external" href="https://t.me/lviv_python_community"&gt;https://t.me/lviv_python_community&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Дата наступної зустрічі: 18 березня об 19:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: вулиця Замкнена, 9, &lt;a class="reference external" href="https://www.facebook.com/ihublviv/"&gt;iHUB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ми шукаємо спікерів! Заповніть форму, щоб виступити на LvivPy #9: &lt;a class="reference external" href="https://forms.gle/JKzuvR9mPaFXBLk78"&gt;https://forms.gle/JKzuvR9mPaFXBLk78&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація на зустріч буде відкрита пізніше.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Приєднуйтеся до нашого Телеграм каналу: &lt;a class="reference external" href="https://t.me/lviv_python_community"&gt;https://t.me/lviv_python_community&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>LvivPy #8: Спікер - Ігор Давиденко</title><link href="https://lvivpy.github.io/lvivpy8-speaker-igor-davydenko.html" rel="alternate"></link><published>2019-11-27T10:43:00+02:00</published><updated>2019-11-27T10:43:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2019-11-27:/lvivpy8-speaker-igor-davydenko.html</id><summary type="html">&lt;div class="section" id="openapi-3-python"&gt;
 &lt;h2&gt;Детальна інструкція по використанню OpenAPI 3 у Python&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://igordavydenko.com/"&gt;Ігор Давиденко&lt;/a&gt;, розробник&lt;/p&gt;
 &lt;p&gt;Обробка вхідних даних та генерування очікуваних відповедей одна з головних задач будь якого веб-фреймворку на Python.
