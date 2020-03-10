@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Mon, 02 Mar 2020 16:19:00 +0200</lastBuildDate><item><title>LvivPy #9 - 18 березня 2020р!</title><link>https://lvivpy.github.io/lvivpy9-announce.html</link><description>&lt;p&gt;Дата наступної зустрічі: 18 березня об 19:00,&lt;/p&gt;
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0200</lastBuildDate><item><title>LvivPy #9: Доповіді</title><link>https://lvivpy.github.io/lvivpy9-talks.html</link><description>&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;ZeroMQ для розподілених продуктів і монолітів.&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.facebook.com/orest.voloshchuk"&gt;Орест Волощук&lt;/a&gt;,  &lt;em&gt;Senior Engineer, Lohika&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Middle, Senior&lt;/li&gt;
+&lt;li&gt;Час: 45хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;quot;Розповім про бібліотеку ZeroMQ, яка розроблена як надшвидкий канал обміну даними між сервісами, але може і сама лягти у основу архітектури та спростити граф потоків даних усередині продукту. Продемонструю техніки проектування, які дозволяють …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Tue, 10 Mar 2020 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2020-03-10:/lvivpy9-talks.html</guid></item><item><title>LvivPy #9 - 18 березня 2020р!</title><link>https://lvivpy.github.io/lvivpy9-announce.html</link><description>&lt;p&gt;Дата наступної зустрічі: 18 березня об 19:00,&lt;/p&gt;
 &lt;p&gt;Місце проведення: вулиця Замкнена, 9, &lt;a class="reference external" href="https://www.facebook.com/ihublviv/"&gt;iHUB&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ми шукаємо спікерів! Заповніть форму, щоб виступити на LvivPy #9: &lt;a class="reference external" href="https://forms.gle/JKzuvR9mPaFXBLk78"&gt;https://forms.gle/JKzuvR9mPaFXBLk78&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Реєстрація на зустріч буде відкрита пізніше.&lt;/p&gt;
