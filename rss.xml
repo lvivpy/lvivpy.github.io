@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0200</lastBuildDate><item><title>LvivPy #9: Доповіді</title><link>https://lvivpy.github.io/lvivpy9-talks.html</link><description>&lt;div class="line-block"&gt;
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Sat, 18 Jul 2020 17:38:00 +0300</lastBuildDate><item><title>LvivPy #10 - 13 серпня 2020р!</title><link>https://lvivpy.github.io/lvivpy10-announce.html</link><description>&lt;p&gt;Дата наступної зустрічі: 13 серпня об 19:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: &lt;a class="reference external" href="https://zoom.us/"&gt;https://zoom.us/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стрімінг та запис зустрічі будуть доступні на нашому &lt;a class="reference external" href="https://www.youtube.com/channel/UCrOhS-i7MaNMXCxJjjHYBQA?view_as=subscriber"&gt;YouTube каналі&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація та інфорація про доповідачів буде піздніше тут та у &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/"&gt;MeetUp группі&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Приєднуйтесь до нашого Телеграм каналу: &lt;a class="reference external" href="https://t.me/lviv_python_community"&gt;https://t.me/lviv_python_community&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Sat, 18 Jul 2020 17:38:00 +0300</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2020-07-18:/lvivpy10-announce.html</guid></item><item><title>LvivPy #9: Доповіді</title><link>https://lvivpy.github.io/lvivpy9-talks.html</link><description>&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;strong&gt;ZeroMQ для розподілених продуктів і монолітів.&lt;/strong&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="https://www.facebook.com/orest.voloshchuk"&gt;Орест Волощук&lt;/a&gt;,  &lt;em&gt;Senior Engineer, Lohika&lt;/em&gt;&lt;/div&gt;
 &lt;/div&gt;

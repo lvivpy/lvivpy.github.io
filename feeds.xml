@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-03-11T00:00:00+02:00</updated><entry><title>LvivPy #9: Доповіді</title><link href="https://lvivpy.github.io/lvivpy9-talks.html" rel="alternate"></link><published>2020-03-11T00:00:00+02:00</published><updated>2020-03-11T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-03-11:/lvivpy9-talks.html</id><summary type="html">&lt;div class="line-block"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-07-18T17:38:00+03:00</updated><entry><title>LvivPy #10 - 13 серпня 2020р!</title><link href="https://lvivpy.github.io/lvivpy10-announce.html" rel="alternate"></link><published>2020-07-18T17:38:00+03:00</published><updated>2020-07-18T17:38:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-07-18:/lvivpy10-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 13 серпня об 19:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: &lt;a class="reference external" href="https://zoom.us/"&gt;https://zoom.us/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стрімінг та запис зустрічі будуть доступні на нашому &lt;a class="reference external" href="https://www.youtube.com/channel/UCrOhS-i7MaNMXCxJjjHYBQA?view_as=subscriber"&gt;YouTube каналі&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація та інфорація про доповідачів буде піздніше тут та у &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/"&gt;MeetUp группі&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Приєднуйтесь до нашого Телеграм каналу: &lt;a class="reference external" href="https://t.me/lviv_python_community"&gt;https://t.me/lviv_python_community&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Дата наступної зустрічі: 13 серпня об 19:00,&lt;/p&gt;
+&lt;p&gt;Місце проведення: &lt;a class="reference external" href="https://zoom.us/"&gt;https://zoom.us/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Стрімінг та запис зустрічі будуть доступні на нашому &lt;a class="reference external" href="https://www.youtube.com/channel/UCrOhS-i7MaNMXCxJjjHYBQA?view_as=subscriber"&gt;YouTube каналі&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Реєстрація та інфорація про доповідачів буде піздніше тут та у &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/"&gt;MeetUp группі&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Приєднуйтесь до нашого Телеграм каналу: &lt;a class="reference external" href="https://t.me/lviv_python_community"&gt;https://t.me/lviv_python_community&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>LvivPy #9: Доповіді</title><link href="https://lvivpy.github.io/lvivpy9-talks.html" rel="alternate"></link><published>2020-03-11T00:00:00+02:00</published><updated>2020-03-11T00:00:00+02:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-03-11:/lvivpy9-talks.html</id><summary type="html">&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;strong&gt;ZeroMQ для розподілених продуктів і монолітів.&lt;/strong&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="https://www.facebook.com/orest.voloshchuk"&gt;Орест Волощук&lt;/a&gt;,  &lt;em&gt;Senior Engineer, Lohika&lt;/em&gt;&lt;/div&gt;
 &lt;/div&gt;
