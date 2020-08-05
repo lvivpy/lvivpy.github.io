@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-07-18T17:38:00+03:00</updated><entry><title>LvivPy #10 - 13 серпня 2020р!</title><link href="https://lvivpy.github.io/lvivpy10-announce.html" rel="alternate"></link><published>2020-07-18T17:38:00+03:00</published><updated>2020-07-18T17:38:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-07-18:/lvivpy10-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 13 серпня об 19:00,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-08-05T00:00:00+03:00</updated><entry><title>LvivPy #10 - Summer Edition: Доповіді першого дня, 13 серпня</title><link href="https://lvivpy.github.io/lvivpy10-talks-day1.html" rel="alternate"></link><published>2020-08-05T00:00:00+03:00</published><updated>2020-08-05T00:00:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-08-05:/lvivpy10-talks-day1.html</id><summary type="html">&lt;p&gt;Два дні! Так! Усі у шоці!
+LvivPy #10 неочікуванно для усіх буде проходити два дні завдяки ентузиазму спікереків і старннями Кості і обох Ігорів.&lt;/p&gt;
+&lt;p&gt;Преший день - 13 серпня
+Другий день - 20 серпня&lt;/p&gt;
+&lt;p&gt;Реєстрація на &amp;quot;LvivPy #10: Summer Edition&amp;quot; буде одна на два дні, кількість місць у Zoom буде обмежена (мабуть …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Два дні! Так! Усі у шоці!
+LvivPy #10 неочікуванно для усіх буде проходити два дні завдяки ентузиазму спікереків і старннями Кості і обох Ігорів.&lt;/p&gt;
+&lt;p&gt;Преший день - 13 серпня
+Другий день - 20 серпня&lt;/p&gt;
+&lt;p&gt;Реєстрація на &amp;quot;LvivPy #10: Summer Edition&amp;quot; буде одна на два дні, кількість місць у Zoom буде обмежена (мабуть, але це не точно) але точно буде YouTube
+Посилання на стрім і кімнату у Zoom буде передостанні дні, ми надішлемо усім зареєстрованим листа з посиланням.
+Також в продов доповідей будемо збирати запитання доповідачам, які будуть зачитані у кінці доповіді.&lt;/p&gt;
+&lt;p&gt;Також цього разу спробуємо провести Lighting Talks Online за наявністю часу.&lt;/p&gt;
+&lt;p&gt;Доповіді першого дня:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Datatables.js &amp;amp; Integration with Django&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.facebook.com/orlan0045k"&gt;Андрій Орлов&lt;/a&gt;,  &lt;em&gt;python dev&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Beginner, Middle&lt;/li&gt;
+&lt;li&gt;Час: 30хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Загальний опис можливостей бібліотеки Datatables JS. Наглядний приклад(демо) можливостей(від зовсім простих прикладів до більш просунутих). Власні висновки за тривалий час роботи.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Автоматична збірка фіч (branches) з подальшим релізом або як все стало кльово&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Юрій Пільгук, &lt;em&gt;Lead Developer, PowerToFly&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Beginner, Middle, Senior&lt;/li&gt;
+&lt;li&gt;Час: 30хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(18+)
+Disclaimer: Автор не несе відповідальності за поломану історію git та втрачені місяці праці через застосування цих ідей та практик.&lt;/p&gt;
+&lt;p&gt;Історія про те як запрацював rebase,  історія git стала милою для ока, стали easy rollbacks та «зникли» кофлікти&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Monitoring ML models in Production&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://facebook.com/klichukb"&gt;Bogdan Klichuk&lt;/a&gt;, &lt;em&gt;Software Engineer at DataRobot&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Middle, Senior&lt;/li&gt;
+&lt;li&gt;Час: 30хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Як аналізувати перформанс та точність ML моделі, що живе в продакшні?&lt;/li&gt;
+&lt;li&gt;Як збудована така система в DataRobot?&lt;/li&gt;
+&lt;li&gt;Як траблшутити фігову модель? CI/CD флоу в DataRobot MLOps.&amp;quot;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.meetup.com/uapycon/events/272005061/"&gt;Рєстрація&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Аннонс другого дня TBD...&lt;/p&gt;
+</content></entry><entry><title>LvivPy #10 - 13 серпня 2020р!</title><link href="https://lvivpy.github.io/lvivpy10-announce.html" rel="alternate"></link><published>2020-07-18T17:38:00+03:00</published><updated>2020-07-18T17:38:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-07-18:/lvivpy10-announce.html</id><summary type="html">&lt;p&gt;Дата наступної зустрічі: 13 серпня об 19:00,&lt;/p&gt;
 &lt;p&gt;Місце проведення: &lt;a class="reference external" href="https://zoom.us/"&gt;https://zoom.us/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Стрімінг та запис зустрічі будуть доступні на нашому &lt;a class="reference external" href="https://www.youtube.com/channel/UCrOhS-i7MaNMXCxJjjHYBQA?view_as=subscriber"&gt;YouTube каналі&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Реєстрація та інфорація про доповідачів буде піздніше тут та у &lt;a class="reference external" href="https://www.meetup.com/uapycon/events/"&gt;MeetUp группі&lt;/a&gt;.&lt;/p&gt;
