@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0300</lastBuildDate><item><title>LvivPy #10 - Summer Edition: Доповіді першого дня, 13 серпня</title><link>https://lvivpy.github.io/lvivpy10-talks-day1.html</link><description>&lt;p&gt;Два дні! Так! Усі у шоці!
+<rss version="2.0"><channel><title>Lviv Python Community</title><link>https://lvivpy.github.io/</link><description></description><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0300</lastBuildDate><item><title>LvivPy #10 - Summer Edition: Доповіді другого дня, 20 серпня</title><link>https://lvivpy.github.io/lvivpy10-talks-day2.html</link><description>&lt;p&gt;&lt;a class="reference external" href="https://www.meetup.com/uapycon/events/272507610/"&gt;Реєстрація&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Посилання на стрім і кімнату у Zoom буде у переддень зустрічі, ми надішлемо усім зареєстрованим листа з посиланням.&lt;/p&gt;
+&lt;p&gt;В продовж доповідей будемо збирати запитання доповідачам, які будуть зачитані у кінці доповіді.&lt;/p&gt;
+&lt;p&gt;Також цього разу спробуємо провести Lighting Talks Online за наявністю часу.&lt;/p&gt;
+&lt;p&gt;Доповіді:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Introducing Django Ninja - Fast Django Rest …&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">LvivPy</dc:creator><pubDate>Tue, 11 Aug 2020 00:00:00 +0300</pubDate><guid isPermaLink="false">tag:lvivpy.github.io,2020-08-11:/lvivpy10-talks-day2.html</guid></item><item><title>LvivPy #10 - Summer Edition: Доповіді першого дня, 13 серпня</title><link>https://lvivpy.github.io/lvivpy10-talks-day1.html</link><description>&lt;p&gt;Два дні! Так! Усі у шоці!
 LvivPy #10 неочікувано для усіх буде проходити два дні завдяки ентузіазму спікерів і стараннями Кості і обох Ігорів.&lt;/p&gt;
 &lt;p&gt;Перший день — 13 серпня&lt;/p&gt;
 &lt;p&gt;Другий день — 20 серпня&lt;/p&gt;

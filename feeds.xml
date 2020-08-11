@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-08-05T00:00:00+03:00</updated><entry><title>LvivPy #10 - Summer Edition: Доповіді першого дня, 13 серпня</title><link href="https://lvivpy.github.io/lvivpy10-talks-day1.html" rel="alternate"></link><published>2020-08-05T00:00:00+03:00</published><updated>2020-08-05T00:00:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-08-05:/lvivpy10-talks-day1.html</id><summary type="html">&lt;p&gt;Два дні! Так! Усі у шоці!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lviv Python Community</title><link href="https://lvivpy.github.io/" rel="alternate"></link><link href="https://lvivpy.github.io/feeds.xml" rel="self"></link><id>https://lvivpy.github.io/</id><updated>2020-08-11T00:00:00+03:00</updated><entry><title>LvivPy #10 - Summer Edition: Доповіді другого дня, 20 серпня</title><link href="https://lvivpy.github.io/lvivpy10-talks-day2.html" rel="alternate"></link><published>2020-08-11T00:00:00+03:00</published><updated>2020-08-11T00:00:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-08-11:/lvivpy10-talks-day2.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.meetup.com/uapycon/events/272507610/"&gt;Реєстрація&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Посилання на стрім і кімнату у Zoom буде у переддень зустрічі, ми надішлемо усім зареєстрованим листа з посиланням.&lt;/p&gt;
+&lt;p&gt;В продовж доповідей будемо збирати запитання доповідачам, які будуть зачитані у кінці доповіді.&lt;/p&gt;
+&lt;p&gt;Також цього разу спробуємо провести Lighting Talks Online за наявністю часу.&lt;/p&gt;
+&lt;p&gt;Доповіді:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Introducing Django Ninja - Fast Django Rest …&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.meetup.com/uapycon/events/272507610/"&gt;Реєстрація&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Посилання на стрім і кімнату у Zoom буде у переддень зустрічі, ми надішлемо усім зареєстрованим листа з посиланням.&lt;/p&gt;
+&lt;p&gt;В продовж доповідей будемо збирати запитання доповідачам, які будуть зачитані у кінці доповіді.&lt;/p&gt;
+&lt;p&gt;Також цього разу спробуємо провести Lighting Talks Online за наявністю часу.&lt;/p&gt;
+&lt;p&gt;Доповіді:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Introducing Django Ninja - Fast Django Rest Framework&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Vitaliy Kucheryaviy&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Beginner, Middle, Senior&lt;/li&gt;
+&lt;li&gt;Час: 30хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Django Ninja is a web framework for building APIs with Django and Python 3.6+ based type hints.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Python Testmon. Test efficiency in unicorn companies&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.facebook.com/carson.gee"&gt;Carson Gee&lt;/a&gt;, &lt;em&gt;TestAuto Software Engineer, DataRobot&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Middle, Senior&lt;/li&gt;
+&lt;li&gt;Час: 30хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How to use python test coverage information to improve test efficiency and runtime.
+There are a few companies in the world using technology like that, here we are going to tell a bit, how applicable it is for others and what challenges we faced.&lt;/p&gt;
+&lt;p&gt;Carson is a senior software engineer in DataRobot. Previously worked on NASA.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Розгортання масштабованого Jupyter&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Igor Lushchyk&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Розраховано для: Middle, Senior&lt;/li&gt;
+&lt;li&gt;Час: 30хв&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Побудова платформи для едхок аналітики вимагає багато неординарних рішень - в безпеці, масштабуванні, ізоляції ресурсів. Особливо якщо це все відбувається в он-прем датацентрі.&lt;/p&gt;
+</content></entry><entry><title>LvivPy #10 - Summer Edition: Доповіді першого дня, 13 серпня</title><link href="https://lvivpy.github.io/lvivpy10-talks-day1.html" rel="alternate"></link><published>2020-08-05T00:00:00+03:00</published><updated>2020-08-05T00:00:00+03:00</updated><author><name>LvivPy</name></author><id>tag:lvivpy.github.io,2020-08-05:/lvivpy10-talks-day1.html</id><summary type="html">&lt;p&gt;Два дні! Так! Усі у шоці!
 LvivPy #10 неочікувано для усіх буде проходити два дні завдяки ентузіазму спікерів і стараннями Кості і обох Ігорів.&lt;/p&gt;
 &lt;p&gt;Перший день — 13 серпня&lt;/p&gt;
 &lt;p&gt;Другий день — 20 серпня&lt;/p&gt;
