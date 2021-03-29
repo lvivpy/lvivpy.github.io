@@ -5,7 +5,7 @@ Jinja2==2.10
 MarkupSafe==1.1.0
 pelican==4.0.1
 pelican-youtube==0.2.0
-Pygments==2.3.1
+Pygments==2.7.4
 python-dateutil==2.7.5
 pytz==2018.9
 six==1.12.0
